@@ -1,4 +1,23 @@
-## Hi there 👋
+👋 Hi there, I'm John Michael!
+👨‍💻 BSIT Student @ Davao del Norte State College (DNSC)
+
+I’m an aspiring IT professional passionate about software development, web technologies, and solving real-world problems through code. Currently building my skills and working on various academic and personal projects!
+
+🔭 Currently working on: College & side projects
+
+🌱 Currently learning: Modern web development & database management
+
+🎯 Goals: To become a proficient Full-Stack Developer
+
+💬 Ask me about: HTML, CSS, JavaScript, and basic IT concepts
+
+🛠️ Tech Stack & Tools
+HTML5 | CSS3 | JavaScript | PHP | MySQL | Git | GitHub
+(Baguhin/dagdagan ang mga tech tools batay sa tunay mong alam)
+
+📬 Connect with me:
+
+| Facebook : https://www.facebook.com/Villarosa0208 | Email: cocjohnmichael2008@gmail.com
 
 
 
