@@ -13,14 +13,10 @@ I’m an aspiring IT professional passionate about software development, web tec
 
 🛠️ Tech Stack & Tools
 HTML5 | CSS3 | JavaScript | PHP | MySQL | Git | GitHub
-(Baguhin/dagdagan ang mga tech tools batay sa tunay mong alam)
 
 📬 Connect with me:
 
 | Facebook : https://www.facebook.com/Villarosa0208 | Email: cocjohnmichael2008@gmail.com
-
-
-
 
 
 # 💫 About Me:
